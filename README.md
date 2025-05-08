@@ -1,1 +1,1 @@
-# Javascript
+# js-exercises-2025
