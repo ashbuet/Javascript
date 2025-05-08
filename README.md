@@ -1,1 +1,1 @@
-# js-exercises-2025
+# Javascript Exercise Assignment
